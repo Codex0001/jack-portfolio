@@ -10,6 +10,7 @@
   <br />
   
   <img src="./readme-images/project-logo.png" />
+  
 
   <h2 align="center">Jack - Personal portfolio</h2>
 
